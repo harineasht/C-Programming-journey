@@ -1,70 +1,74 @@
-💻 C Programming Repository
-💻 Overview
+# ⭐ C Programming Repository
 
-C programming practice programs
+## ⭐ Overview
 
-Created for learning and skill improvement
+* This repository contains C programming practice programs
+* Created as part of my learning journey
+* Focused on building strong fundamentals and logic
+* Suitable for beginners and intermediate learners
 
-Focused on fundamentals and logic building
+---
 
-💻 Course Guidance
+## ⭐ Course Guidance
+* Mentor - Dr.Daniel Raj
+* Instructor - Dr.Balajee Shesadri
+* Platform - ETALVIS.COM
 
-Mentor - Dr.Daniel Raj
+---
 
-Instructor - Dr.Balajee Shesadri
+## ⭐ Topics Covered
 
-Platform - ETALVIS.COM
+* Basics of C programming
+* Input and output operations
+* Decision making concepts
+* Looping concepts
+* Functions
+* Arrays
+* Strings
+* Pointers
+* Modular programming
+* Logical problem solving
 
-💻 Topics Covered
+---
 
-Basics of C programming
+## ⭐ Repository Organization
 
-Input and output operations
+* Programs are arranged in folders
+* Each folder contains related C programs
+* Code is written in a simple and readable manner
 
-Decision making concepts
+---
 
-Looping concepts
+## ⭐ Objective
 
-Functions
+* Practice C programming concepts
+* Improve logical thinking
+* Build strong programming foundation
+* Maintain organized learning material
 
-Arrays
+---
 
-Strings
+## ⭐ Language Used
 
-Pointers
+* C Programming
 
-Modular programming
+---
 
-💻 Repository Organization
+## ⭐ Author
 
-Programs arranged in folders
+* Harineash
 
-Simple and readable code structure
+---
 
-💻 Objective
+## ⭐ Notes
 
-Practice C programming
+* Programs are for learning and practice purposes
+* Executable files are ignored using .gitignore
+* Code is kept simple for easy understanding
 
-Improve problem-solving skills
+---
 
-Build strong programming fundamentals
+## ⭐ Acknowledgement
 
-💻 Language Used
-
-C Programming
-
-💻 Author
-
-Harineash
-
-💻 Notes
-
-Programs are for learning purposes
-
-Executable files ignored using .gitignore
-
-💻 Acknowledgement
-
-Represents my continuous learning journey
-
-Repository will be updated over time
+* This repository represents my continuous learning in C programming
+* Content will be updated as new concepts are learned
