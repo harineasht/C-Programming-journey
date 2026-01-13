@@ -10,7 +10,6 @@
 ---
 
 ## ⭐ Course Guidance
-* Mentor - Dr.Daniel Raj
 * Instructor - Dr.Balajee Shesadri
 * Platform - ETALVIS.COM
 
