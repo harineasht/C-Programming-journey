@@ -1,4 +1,4 @@
-// Program to get two numbers from user and print their HCF using while loop
+//  Program to get two numbers from user and print their HCF using while loop
 #include <stdio.h>
 
 void disp_count_HCF2()
